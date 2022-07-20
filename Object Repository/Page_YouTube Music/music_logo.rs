@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>music_logo</name>
+   <tag></tag>
+   <elementGuidId>ebfe856d-a70a-4521-8552-0caea1b0432b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='left-content']/a/picture/img</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>img.logo.style-scope.ytmusic-nav-bar</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>91141b3f-0eb4-4eb6-910d-3e1207028c95</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>logo style-scope ytmusic-nav-bar</value>
+      <webElementGuid>5dbd7bc3-1527-4796-911b-066ee477a789</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>//music.youtube.com/img/on_platform_logo_dark.svg</value>
+      <webElementGuid>8b8d64bd-349c-492f-bdf4-2476d74f7448</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;left-content&quot;)/a[@class=&quot;yt-simple-endpoint style-scope ytmusic-nav-bar&quot;]/picture[@class=&quot;style-scope ytmusic-nav-bar&quot;]/img[@class=&quot;logo style-scope ytmusic-nav-bar&quot;]</value>
+      <webElementGuid>dbbef836-cd22-488d-ae03-8022a075fa5f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='left-content']/a/picture/img</value>
+      <webElementGuid>4d69e9e8-0762-4b6d-8c75-d6c19e1d0ad4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//img</value>
+      <webElementGuid>e54103ca-93e7-4b60-959c-fa5d2abc000a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = '//music.youtube.com/img/on_platform_logo_dark.svg']</value>
+      <webElementGuid>ba6dc71a-a067-4648-9899-9379a19b47bf</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

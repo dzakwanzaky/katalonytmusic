@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>page_title_new_release</name>
+   <tag></tag>
+   <elementGuidId>86151228-993a-469b-ae8a-22e3ad586f39</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='header']/ytmusic-header-renderer/h2/yt-formatted-string</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>yt-formatted-string.title.style-scope.ytmusic-header-renderer</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>yt-formatted-string</value>
+      <webElementGuid>25d54ea9-0a7a-41e7-bd6d-4746266e40eb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>title style-scope ytmusic-header-renderer</value>
+      <webElementGuid>ac1ecb07-545e-463b-80ef-890e22c7354f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>New releases</value>
+      <webElementGuid>a21d599f-021e-497c-8d95-9430f2d25521</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;browse-page&quot;)/div[@class=&quot;background-gradient style-scope ytmusic-browse-response&quot;]/div[@id=&quot;header&quot;]/ytmusic-header-renderer[@class=&quot;style-scope ytmusic-browse-response&quot;]/h2[@class=&quot;style-scope ytmusic-header-renderer&quot;]/yt-formatted-string[@class=&quot;title style-scope ytmusic-header-renderer&quot;]</value>
+      <webElementGuid>24a63784-5e21-429c-bbf3-6b30bfff60f1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='header']/ytmusic-header-renderer/h2/yt-formatted-string</value>
+      <webElementGuid>fe060070-b222-41c0-ab0e-9487bd0a8303</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sign in'])[1]/following::yt-formatted-string[1]</value>
+      <webElementGuid>3c471ece-4b90-427b-b43a-100ebe3ec5b1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Library'])[1]/following::yt-formatted-string[1]</value>
+      <webElementGuid>34b291ea-a010-4e07-a65e-3e43fad4b5d7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='RELEASED'])[1]/preceding::yt-formatted-string[1]</value>
+      <webElementGuid>3b4b6829-0491-4211-a262-e69535842371</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Demi Lovato'])[1]/preceding::yt-formatted-string[2]</value>
+      <webElementGuid>6a02180c-7219-4ac0-b793-9a606a9ae148</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='New releases']/parent::*</value>
+      <webElementGuid>225a5bd2-4fde-41b7-81cb-2a6e67aca310</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h2/yt-formatted-string</value>
+      <webElementGuid>45dcbf4b-b357-4ced-9839-2df52769b8c5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//yt-formatted-string[(text() = 'New releases' or . = 'New releases')]</value>
+      <webElementGuid>2ac81ff4-a128-41a1-9b38-64b325f2c855</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

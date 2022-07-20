@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>btn_search_result</name>
+   <tag></tag>
+   <elementGuidId>b6e45c39-66ed-46b3-bc0b-834497d3363a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='contents']/ytmusic-responsive-list-item-renderer/div[2]/div/yt-formatted-string/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>ytmusic-responsive-list-item-renderer.style-scope.ytmusic-shelf-renderer > div.flex-columns.style-scope.ytmusic-responsive-list-item-renderer > div.title-column.style-scope.ytmusic-responsive-list-item-renderer > yt-formatted-string.title.style-scope.ytmusic-responsive-list-item-renderer.complex-string > a.yt-simple-endpoint.style-scope.yt-formatted-string</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>bd57cf93-a6e9-474d-8fc1-4c32aed71c81</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>yt-simple-endpoint style-scope yt-formatted-string</value>
+      <webElementGuid>a1372b41-08bf-4dba-8ee5-710f2c50a708</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>spellcheck</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>1b218593-ebb2-42d9-9e37-b6aceeed776b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>watch?v=9II3OGZETo4&amp;list=RDAMVM9II3OGZETo4</value>
+      <webElementGuid>a3f0dd8b-d3b9-467a-b416-aed07230de30</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Hati‐Hati di Jalan</value>
+      <webElementGuid>3a755bfe-e9c5-40ee-b179-e5baa359b692</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;search-page&quot;)/ytmusic-tabbed-search-results-renderer[@class=&quot;style-scope ytmusic-search-page&quot;]/div[@class=&quot;content style-scope ytmusic-tabbed-search-results-renderer&quot;]/ytmusic-section-list-renderer[@class=&quot;style-scope ytmusic-tabbed-search-results-renderer&quot;]/div[@id=&quot;contents&quot;]/ytmusic-shelf-renderer[@class=&quot;style-scope ytmusic-section-list-renderer&quot;]/div[@id=&quot;contents&quot;]/ytmusic-responsive-list-item-renderer[@class=&quot;style-scope ytmusic-shelf-renderer&quot;]/div[@class=&quot;flex-columns style-scope ytmusic-responsive-list-item-renderer&quot;]/div[@class=&quot;title-column style-scope ytmusic-responsive-list-item-renderer&quot;]/yt-formatted-string[@class=&quot;title style-scope ytmusic-responsive-list-item-renderer complex-string&quot;]/a[@class=&quot;yt-simple-endpoint style-scope yt-formatted-string&quot;]</value>
+      <webElementGuid>f05c07a2-3734-4517-9229-aef2d1c2d6d1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='contents']/ytmusic-responsive-list-item-renderer/div[2]/div/yt-formatted-string/a</value>
+      <webElementGuid>4647839b-094e-42cf-86c7-db65a6e14cf8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>(//a[contains(text(),'Hati‐Hati di Jalan')])[2]</value>
+      <webElementGuid>3013445d-ac07-4fe8-a2aa-c36bc74a4c23</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Top result'])[1]/following::a[1]</value>
+      <webElementGuid>26423157-1e8d-4a3f-847a-80ebb83fceee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Community playlists'])[1]/following::a[1]</value>
+      <webElementGuid>0d75312c-4671-454e-963b-dc492c4769c3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Video'])[1]/preceding::a[1]</value>
+      <webElementGuid>9d00858e-3d4c-477e-a534-ca9413e6c508</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='•'])[42]/preceding::a[1]</value>
+      <webElementGuid>449ba163-05ae-4fec-a9ae-c39f51424fa4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'watch?v=9II3OGZETo4&amp;list=RDAMVM9II3OGZETo4')]</value>
+      <webElementGuid>c0636704-d44c-42b7-acd4-210fd9f630e9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/ytmusic-responsive-list-item-renderer/div[2]/div/yt-formatted-string/a</value>
+      <webElementGuid>eed1f778-8d48-406b-a796-2541b4df63c8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'watch?v=9II3OGZETo4&amp;list=RDAMVM9II3OGZETo4' and (text() = 'Hati‐Hati di Jalan' or . = 'Hati‐Hati di Jalan')]</value>
+      <webElementGuid>dbb4cef5-c775-4948-9906-a32ac62a390a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

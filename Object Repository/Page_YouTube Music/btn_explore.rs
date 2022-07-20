@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>btn_explore</name>
+   <tag></tag>
+   <elementGuidId>7e21f23a-9dd2-4f06-82b3-c2074d34dee9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//ytmusic-app-layout[@id='layout']/ytmusic-nav-bar/div[2]/ytmusic-pivot-bar-renderer/ytmusic-pivot-bar-item-renderer[2]/yt-formatted-string</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>ytmusic-pivot-bar-item-renderer.style-scope.ytmusic-pivot-bar-renderer.iron-selected > yt-formatted-string.tab-title.style-scope.ytmusic-pivot-bar-item-renderer</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>yt-formatted-string</value>
+      <webElementGuid>4bbb468b-d80e-426d-891f-7d7c40e0d057</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>tab-title style-scope ytmusic-pivot-bar-item-renderer</value>
+      <webElementGuid>d4dcc982-89c5-40f2-aeec-60955ac1f361</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Explore</value>
+      <webElementGuid>8a1ce5f1-2a79-4c35-9f8d-01f68cc11acc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;layout&quot;)/ytmusic-nav-bar[@class=&quot;style-scope ytmusic-app&quot;]/div[@class=&quot;center-content style-scope ytmusic-nav-bar&quot;]/ytmusic-pivot-bar-renderer[@class=&quot;style-scope ytmusic-nav-bar&quot;]/ytmusic-pivot-bar-item-renderer[@class=&quot;style-scope ytmusic-pivot-bar-renderer iron-selected&quot;]/yt-formatted-string[@class=&quot;tab-title style-scope ytmusic-pivot-bar-item-renderer&quot;]</value>
+      <webElementGuid>ea93fd10-fd44-4a5e-9a6c-61ebb97a7ba1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ytmusic-app-layout[@id='layout']/ytmusic-nav-bar/div[2]/ytmusic-pivot-bar-renderer/ytmusic-pivot-bar-item-renderer[2]/yt-formatted-string</value>
+      <webElementGuid>6150374b-90ff-4cef-ac2a-d3702365820a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Home'])[1]/following::yt-formatted-string[1]</value>
+      <webElementGuid>a8e17d4d-6a6a-4bff-acd8-f2110129583f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Library'])[1]/preceding::yt-formatted-string[1]</value>
+      <webElementGuid>209b5287-263a-4480-9f13-e2a4942a94dc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sign in'])[1]/preceding::yt-formatted-string[2]</value>
+      <webElementGuid>048e3e7d-93c4-4200-8016-b9e2d36ecb8f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Explore']/parent::*</value>
+      <webElementGuid>57c11c07-bbed-49c9-b32a-ae4ea7cc725f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//ytmusic-pivot-bar-item-renderer[2]/yt-formatted-string</value>
+      <webElementGuid>a297bfd0-b3cc-4815-9495-65ef19369460</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//yt-formatted-string[(text() = 'Explore' or . = 'Explore')]</value>
+      <webElementGuid>9646b5e4-4f5a-4da6-82dc-c1734d3c6a72</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

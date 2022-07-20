@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>btn_play_search_result</name>
+   <tag></tag>
+   <elementGuidId>307f8bc3-6862-4df9-851b-718b8be86ba8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//ytmusic-play-button-renderer[@id='play-button']/div/yt-icon)[15]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>ytmusic-responsive-list-item-renderer.style-scope.ytmusic-shelf-renderer > div.left-items.style-scope.ytmusic-responsive-list-item-renderer > ytmusic-item-thumbnail-overlay-renderer.thumbnail-overlay.style-scope.ytmusic-responsive-list-item-renderer > #content > #play-button > div.content-wrapper.style-scope.ytmusic-play-button-renderer > yt-icon.icon.style-scope.ytmusic-play-button-renderer</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>yt-icon</value>
+      <webElementGuid>be10c1a9-7c1b-4056-84a8-d0493617fb17</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>icon style-scope ytmusic-play-button-renderer</value>
+      <webElementGuid>e0addd7a-47a1-43e5-a536-68c35bda8eba</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;search-page&quot;)/ytmusic-tabbed-search-results-renderer[@class=&quot;style-scope ytmusic-search-page&quot;]/div[@class=&quot;content style-scope ytmusic-tabbed-search-results-renderer&quot;]/ytmusic-section-list-renderer[@class=&quot;style-scope ytmusic-tabbed-search-results-renderer&quot;]/div[@id=&quot;contents&quot;]/ytmusic-shelf-renderer[@class=&quot;style-scope ytmusic-section-list-renderer&quot;]/div[@id=&quot;contents&quot;]/ytmusic-responsive-list-item-renderer[@class=&quot;style-scope ytmusic-shelf-renderer&quot;]/div[@class=&quot;left-items style-scope ytmusic-responsive-list-item-renderer&quot;]/ytmusic-item-thumbnail-overlay-renderer[@class=&quot;thumbnail-overlay style-scope ytmusic-responsive-list-item-renderer&quot;]/div[@id=&quot;content&quot;]/ytmusic-play-button-renderer[@id=&quot;play-button&quot;]/div[@class=&quot;content-wrapper style-scope ytmusic-play-button-renderer&quot;]/yt-icon[@class=&quot;icon style-scope ytmusic-play-button-renderer&quot;]</value>
+      <webElementGuid>d32f561b-d8f9-491d-8e2b-8a448152d83e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>(//ytmusic-play-button-renderer[@id='play-button']/div/yt-icon)[15]</value>
+      <webElementGuid>2daebe41-c170-42d9-acab-ac7a30d2bb52</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Top result'])[1]/following::yt-icon[1]</value>
+      <webElementGuid>b8d7af96-75d3-44af-985b-8d35e557a1f0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Community playlists'])[1]/following::yt-icon[1]</value>
+      <webElementGuid>535626aa-c41f-448f-a023-a67833ccfeca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hati‐Hati di Jalan'])[1]/preceding::yt-icon[2]</value>
+      <webElementGuid>3aa7300a-1570-48f7-b290-97282f824dd7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Video'])[1]/preceding::yt-icon[2]</value>
+      <webElementGuid>bf060f52-8ea3-4a12-847d-9bef3a279164</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/ytmusic-responsive-list-item-renderer/div/ytmusic-item-thumbnail-overlay-renderer/div/ytmusic-play-button-renderer/div/yt-icon</value>
+      <webElementGuid>a1f7799d-20da-4d83-9fb8-486792756975</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

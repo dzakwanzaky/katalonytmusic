@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_login</name>
+   <tag></tag>
+   <elementGuidId>e733c798-f809-40d9-bcea-cadf0056d6d3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='headingSubtext']/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#headingSubtext > span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>1e7d5eae-ed75-4026-b275-d9f8aa95d107</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>to continue to YouTube Music</value>
+      <webElementGuid>ebdf5545-0b85-4bae-a2f9-0e43cacd01bc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;headingSubtext&quot;)/span[1]</value>
+      <webElementGuid>8bddeee1-234e-4632-aa98-00503ee81bcb</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='headingSubtext']/span</value>
+      <webElementGuid>be897085-1b09-4e63-9f6d-bfecd4e677e0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sign in'])[1]/following::span[1]</value>
+      <webElementGuid>29b67169-9e02-4ed5-b044-211fae9b0f30</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Forgot email?'])[1]/preceding::span[1]</value>
+      <webElementGuid>4d021880-e706-41af-aee4-b3cdd1c1652e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='to continue to YouTube Music']/parent::*</value>
+      <webElementGuid>eb1b2384-4b02-4569-b106-bdcc14881783</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div/div/span</value>
+      <webElementGuid>925e7d03-f495-4c6f-a43e-ef2dfa76504a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'to continue to YouTube Music' or . = 'to continue to YouTube Music')]</value>
+      <webElementGuid>ac49095b-36b4-40d6-bfb2-817810ea0316</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

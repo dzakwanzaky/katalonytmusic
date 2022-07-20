@@ -1,0 +1,34 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+New Test Suite,Chrome 103.0.5060.114,,,2022-07-20 19:24:19,2022-07-20 19:25:11,52.739s,FAILED
+,,,,,,,
+Test Cases/Access Youtube Music,Chrome 103.0.5060.114,,,2022-07-20 19:24:19,2022-07-20 19:24:26,6.921s,FAILED
+"openBrowser(""https://music.youtube.com/"")",Chrome 103.0.5060.114,,,2022-07-20 19:24:19,2022-07-20 19:24:25,6.047s,PASSED
+"waitForElementPresent(findTestObject(""Page_YouTube Music/music_logo""), 3)",Chrome 103.0.5060.114,,,2022-07-20 19:24:25,2022-07-20 19:24:26,0.564s,FAILED
+,,,,,,,
+Test Cases/Play Song From Quick Picks,Chrome 103.0.5060.114,,,2022-07-20 19:24:26,2022-07-20 19:24:33,7.129s,FAILED
+"openBrowser(""https://music.youtube.com/"")",Chrome 103.0.5060.114,,,2022-07-20 19:24:26,2022-07-20 19:24:32,5.760s,PASSED
+"waitForElementPresent(findTestObject(""Page_YouTube Music/music_logo""), 3)",Chrome 103.0.5060.114,,,2022-07-20 19:24:32,2022-07-20 19:24:33,0.780s,FAILED
+,,,,,,,
+Test Cases/User can do search and play song from search result,Chrome 103.0.5060.114,,,2022-07-20 19:24:33,2022-07-20 19:24:39,6.405s,FAILED
+"openBrowser(""https://music.youtube.com/"")",Chrome 103.0.5060.114,,,2022-07-20 19:24:33,2022-07-20 19:24:39,5.290s,PASSED
+"waitForElementPresent(findTestObject(""Page_YouTube Music/music_logo""), 3)",Chrome 103.0.5060.114,,,2022-07-20 19:24:39,2022-07-20 19:24:39,0.742s,FAILED
+,,,,,,,
+Test Cases/User can go to New Releases page,Chrome 103.0.5060.114,,,2022-07-20 19:24:39,2022-07-20 19:24:46,6.278s,FAILED
+"openBrowser(""https://music.youtube.com/"")",Chrome 103.0.5060.114,,,2022-07-20 19:24:40,2022-07-20 19:24:45,5.163s,PASSED
+"waitForElementPresent(findTestObject(""Page_YouTube Music/music_logo""), 3)",Chrome 103.0.5060.114,,,2022-07-20 19:24:45,2022-07-20 19:24:46,0.634s,FAILED
+,,,,,,,
+Test Cases/User can go to Explore Page,Chrome 103.0.5060.114,,,2022-07-20 19:24:46,2022-07-20 19:24:52,6.490s,FAILED
+"openBrowser(""https://music.youtube.com/"")",Chrome 103.0.5060.114,,,2022-07-20 19:24:46,2022-07-20 19:24:51,5.191s,PASSED
+"waitForElementPresent(findTestObject(""Page_YouTube Music/music_logo""), 3)",Chrome 103.0.5060.114,,,2022-07-20 19:24:51,2022-07-20 19:24:52,0.993s,FAILED
+,,,,,,,
+Test Cases/User can go to login page,Chrome 103.0.5060.114,,,2022-07-20 19:24:52,2022-07-20 19:24:59,6.310s,FAILED
+"openBrowser(""https://music.youtube.com/"")",Chrome 103.0.5060.114,,,2022-07-20 19:24:53,2022-07-20 19:24:58,5.358s,PASSED
+"waitForElementPresent(findTestObject(""Page_YouTube Music/music_logo""), 3)",Chrome 103.0.5060.114,,,2022-07-20 19:24:58,2022-07-20 19:24:59,0.667s,FAILED
+,,,,,,,
+Test Cases/User can go to Charts page,Chrome 103.0.5060.114,,,2022-07-20 19:24:59,2022-07-20 19:25:05,6.765s,FAILED
+"openBrowser(""https://music.youtube.com/"")",Chrome 103.0.5060.114,,,2022-07-20 19:24:59,2022-07-20 19:25:05,5.836s,PASSED
+"waitForElementPresent(findTestObject(""Page_YouTube Music/music_logo""), 3)",Chrome 103.0.5060.114,,,2022-07-20 19:25:05,2022-07-20 19:25:05,0.687s,FAILED
+,,,,,,,
+Test Cases/User can go to Moods page,Chrome 103.0.5060.114,,,2022-07-20 19:25:05,2022-07-20 19:25:11,6.154s,FAILED
+"openBrowser(""https://music.youtube.com/"")",Chrome 103.0.5060.114,,,2022-07-20 19:25:06,2022-07-20 19:25:11,5.321s,PASSED
+"waitForElementPresent(findTestObject(""Page_YouTube Music/music_logo""), 3)",Chrome 103.0.5060.114,,,2022-07-20 19:25:11,2022-07-20 19:25:11,0.551s,FAILED

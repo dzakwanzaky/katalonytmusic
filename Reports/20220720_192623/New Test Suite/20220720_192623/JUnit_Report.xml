@@ -1,0 +1,305 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="New Test Suite" time="74.488" tests="8" failures="0" errors="0">
+   <testsuite name="New Test Suite" tests="8" failures="0" errors="0" time="74.488" skipped="0" timestamp="2022-07-20 19:26:24" hostname="mekari - 192.168.1.2" id="Test Suites/New Test Suite">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="/Users/mekari/git/katalonytmusic/Reports/20220720_192623/New Test Suite/20220720_192623"/>
+         <property name="logFiles" value="/Users/mekari/git/katalonytmusic/Reports/20220720_192623/New Test Suite/20220720_192623/execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="mekari - 192.168.1.2"/>
+         <property name="os" value="Mac OS X 64bit"/>
+         <property name="katalonVersion" value="8.4.0.208"/>
+         <property name="browser" value="Chrome 103.0.5060.114"/>
+         <property name="hostAddress" value="192.168.1.2"/>
+         <property name="sessionId" value="285a2ada55200e708cc19d30f6992240"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Mac OS X"/>
+      </properties>
+      <testcase name="Test Cases/Access Youtube Music" time="6.836" classname="Test Cases/Access Youtube Music" status="PASSED">
+         <system-out><![CDATA[2022-07-20 19:26:25 - [TEST_CASE][PASSED] - Test Cases/Access Youtube Music: Test Cases/Access Youtube Music
+
+2022-07-20 19:26:25 - [TEST_STEP][PASSED] - openBrowser("https://music.youtube.com/"): Browser is opened with url: 'https://music.youtube.com/'
+
+2022-07-20 19:26:25 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2022-07-20 19:26:25 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2022-07-20 19:26:30 - [MESSAGE][PASSED] - Browser is opened with url: 'https://music.youtube.com/'
+
+2022-07-20 19:26:30 - [TEST_STEP][PASSED] - waitForElementPresent(findTestObject("Page_YouTube Music/music_logo"), 3): Object 'Object Repository/Page_YouTube Music/music_logo' is present
+
+2022-07-20 19:26:31 - [MESSAGE][PASSED] - Object 'Object Repository/Page_YouTube Music/music_logo' is present
+
+2022-07-20 19:26:31 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("Page_YouTube Music/music_logo")): Object 'Object Repository/Page_YouTube Music/music_logo' is visible
+
+2022-07-20 19:26:31 - [MESSAGE][PASSED] - Object 'Object Repository/Page_YouTube Music/music_logo' is visible]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Play Song From Quick Picks" time="8.493" classname="Test Cases/Play Song From Quick Picks" status="PASSED">
+         <system-out><![CDATA[2022-07-20 19:26:31 - [TEST_CASE][PASSED] - Test Cases/Play Song From Quick Picks: Test Cases/Play Song From Quick Picks
+
+2022-07-20 19:26:32 - [TEST_STEP][PASSED] - openBrowser("https://music.youtube.com/"): Browser is opened with url: 'https://music.youtube.com/'
+
+2022-07-20 19:26:32 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+2022-07-20 19:26:32 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2022-07-20 19:26:32 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2022-07-20 19:26:36 - [MESSAGE][PASSED] - Browser is opened with url: 'https://music.youtube.com/'
+
+2022-07-20 19:26:36 - [TEST_STEP][PASSED] - waitForElementPresent(findTestObject("Page_YouTube Music/music_logo"), 3): Object 'Object Repository/Page_YouTube Music/music_logo' is present
+
+2022-07-20 19:26:37 - [MESSAGE][PASSED] - Object 'Object Repository/Page_YouTube Music/music_logo' is present
+
+2022-07-20 19:26:37 - [TEST_STEP][PASSED] - click(findTestObject("Page_YouTube Music/quick_pick_song")): Object: 'Object Repository/Page_YouTube Music/quick_pick_song' is clicked on
+
+2022-07-20 19:26:37 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_YouTube Music/quick_pick_song' is clicked on
+
+2022-07-20 19:26:37 - [TEST_STEP][PASSED] - waitForElementPresent(findTestObject("Page_HatiHati di Jalan - YouTube Music/music_player"), 3): Object 'Object Repository/Page_HatiHati di Jalan - YouTube Music/music_player' is present
+
+2022-07-20 19:26:40 - [MESSAGE][PASSED] - Object 'Object Repository/Page_HatiHati di Jalan - YouTube Music/music_player' is present
+
+2022-07-20 19:26:40 - [TEST_STEP][PASSED] - verifyElementPresent(findTestObject("Page_HatiHati di Jalan - YouTube Music/music_player"), 0): Object 'Object Repository/Page_HatiHati di Jalan - YouTube Music/music_player' is present
+
+2022-07-20 19:26:40 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2022-07-20 19:26:40 - [MESSAGE][PASSED] - Object 'Object Repository/Page_HatiHati di Jalan - YouTube Music/music_player' is present]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/User can do search and play song from search result" time="15.506" classname="Test Cases/User can do search and play song from search result" status="PASSED">
+         <system-out><![CDATA[2022-07-20 19:26:40 - [TEST_CASE][PASSED] - Test Cases/User can do search and play song from search result: Test Cases/User can do search and play song from search result
+
+2022-07-20 19:26:40 - [TEST_STEP][PASSED] - openBrowser("https://music.youtube.com/"): Browser is opened with url: 'https://music.youtube.com/'
+
+2022-07-20 19:26:40 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+2022-07-20 19:26:40 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2022-07-20 19:26:40 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2022-07-20 19:26:45 - [MESSAGE][PASSED] - Browser is opened with url: 'https://music.youtube.com/'
+
+2022-07-20 19:26:45 - [TEST_STEP][PASSED] - waitForElementPresent(findTestObject("Page_YouTube Music/music_logo"), 3): Object 'Object Repository/Page_YouTube Music/music_logo' is present
+
+2022-07-20 19:26:45 - [MESSAGE][PASSED] - Object 'Object Repository/Page_YouTube Music/music_logo' is present
+
+2022-07-20 19:26:45 - [TEST_STEP][PASSED] - click(findTestObject("Page_YouTube Music/btn_search")): Object: 'Object Repository/Page_YouTube Music/btn_search' is clicked on
+
+2022-07-20 19:26:46 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_YouTube Music/btn_search' is clicked on
+
+2022-07-20 19:26:46 - [TEST_STEP][PASSED] - delay(3, STOP_ON_FAILURE): Delayed 3 second(s)
+
+2022-07-20 19:26:49 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2022-07-20 19:26:49 - [TEST_STEP][PASSED] - setText(findTestObject("Page_YouTube Music/input_search_box"), "tulus hati hati di jalan"): Text 'tulus hati hati di jalan' is set on object 'Object Repository/Page_YouTube Music/input_search_box'
+
+2022-07-20 19:26:50 - [MESSAGE][PASSED] - Text 'tulus hati hati di jalan' is set on object 'Object Repository/Page_YouTube Music/input_search_box'
+
+2022-07-20 19:26:50 - [TEST_STEP][PASSED] - sendKeys(findTestObject("Page_YouTube Music/input_search_box"), Keys.chord(ENTER)): Keys 'ENTER + ' sent to object: 'Object Repository/Page_YouTube Music/input_search_box'
+
+2022-07-20 19:26:50 - [MESSAGE][PASSED] - Keys 'ENTER + ' sent to object: 'Object Repository/Page_YouTube Music/input_search_box'
+
+2022-07-20 19:26:50 - [TEST_STEP][PASSED] - waitForElementVisible(findTestObject("Page_YouTube Music/btn_search_result"), 3): Object 'Object Repository/Page_YouTube Music/btn_search_result' is visible
+
+2022-07-20 19:26:52 - [MESSAGE][PASSED] - Object 'Object Repository/Page_YouTube Music/btn_search_result' is visible
+
+2022-07-20 19:26:52 - [TEST_STEP][PASSED] - click(findTestObject("Page_YouTube Music/btn_search_result")): Object: 'Object Repository/Page_YouTube Music/btn_search_result' is clicked on
+
+2022-07-20 19:26:53 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_YouTube Music/btn_search_result' is clicked on
+
+2022-07-20 19:26:53 - [TEST_STEP][PASSED] - waitForElementVisible(findTestObject("Page_HatiHati di Jalan - YouTube Music/music_player"), 3): Object 'Object Repository/Page_HatiHati di Jalan - YouTube Music/music_player' is visible
+
+2022-07-20 19:26:55 - [MESSAGE][PASSED] - Object 'Object Repository/Page_HatiHati di Jalan - YouTube Music/music_player' is visible
+
+2022-07-20 19:26:55 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("Page_HatiHati di Jalan - YouTube Music/music_player")): Object 'Object Repository/Page_HatiHati di Jalan - YouTube Music/music_player' is visible
+
+2022-07-20 19:26:55 - [MESSAGE][PASSED] - Object 'Object Repository/Page_HatiHati di Jalan - YouTube Music/music_player' is visible]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/User can go to New Releases page" time="9.389" classname="Test Cases/User can go to New Releases page" status="PASSED">
+         <system-out><![CDATA[2022-07-20 19:26:55 - [TEST_CASE][PASSED] - Test Cases/User can go to New Releases page: Test Cases/User can go to New Releases page
+
+2022-07-20 19:26:56 - [TEST_STEP][PASSED] - openBrowser("https://music.youtube.com/"): Browser is opened with url: 'https://music.youtube.com/'
+
+2022-07-20 19:26:56 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+2022-07-20 19:26:56 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2022-07-20 19:26:56 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2022-07-20 19:27:00 - [MESSAGE][PASSED] - Browser is opened with url: 'https://music.youtube.com/'
+
+2022-07-20 19:27:00 - [TEST_STEP][PASSED] - waitForElementPresent(findTestObject("Page_YouTube Music/music_logo"), 3): Object 'Object Repository/Page_YouTube Music/music_logo' is present
+
+2022-07-20 19:27:01 - [MESSAGE][PASSED] - Object 'Object Repository/Page_YouTube Music/music_logo' is present
+
+2022-07-20 19:27:01 - [TEST_STEP][PASSED] - click(findTestObject("Page_YouTube Music/btn_explore")): Object: 'Object Repository/Page_YouTube Music/btn_explore' is clicked on
+
+2022-07-20 19:27:01 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_YouTube Music/btn_explore' is clicked on
+
+2022-07-20 19:27:01 - [TEST_STEP][PASSED] - waitForElementPresent(findTestObject("Page_YouTube Music/logo_new_release"), 3): Object 'Object Repository/Page_YouTube Music/logo_new_release' is present
+
+2022-07-20 19:27:03 - [MESSAGE][PASSED] - Object 'Object Repository/Page_YouTube Music/logo_new_release' is present
+
+2022-07-20 19:27:03 - [TEST_STEP][PASSED] - click(findTestObject("Page_YouTube Music/logo_new_release")): Object: 'Object Repository/Page_YouTube Music/logo_new_release' is clicked on
+
+2022-07-20 19:27:03 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_YouTube Music/logo_new_release' is clicked on
+
+2022-07-20 19:27:03 - [TEST_STEP][PASSED] - waitForElementPresent(findTestObject("Page_YouTube Music/page_title_new_release"), 3): Object 'Object Repository/Page_YouTube Music/page_title_new_release' is present
+
+2022-07-20 19:27:04 - [MESSAGE][PASSED] - Object 'Object Repository/Page_YouTube Music/page_title_new_release' is present
+
+2022-07-20 19:27:04 - [TEST_STEP][PASSED] - verifyElementPresent(findTestObject("Page_YouTube Music/page_title_new_release"), 0): Object 'Object Repository/Page_YouTube Music/page_title_new_release' is present
+
+2022-07-20 19:27:05 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2022-07-20 19:27:05 - [MESSAGE][PASSED] - Object 'Object Repository/Page_YouTube Music/page_title_new_release' is present]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/User can go to Explore Page" time="7.117" classname="Test Cases/User can go to Explore Page" status="PASSED">
+         <system-out><![CDATA[2022-07-20 19:27:05 - [TEST_CASE][PASSED] - Test Cases/User can go to Explore Page: Test Cases/User can go to Explore Page
+
+2022-07-20 19:27:05 - [TEST_STEP][PASSED] - openBrowser("https://music.youtube.com/"): Browser is opened with url: 'https://music.youtube.com/'
+
+2022-07-20 19:27:05 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+2022-07-20 19:27:05 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2022-07-20 19:27:05 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2022-07-20 19:27:09 - [MESSAGE][PASSED] - Browser is opened with url: 'https://music.youtube.com/'
+
+2022-07-20 19:27:09 - [TEST_STEP][PASSED] - waitForElementPresent(findTestObject("Page_YouTube Music/music_logo"), 3): Object 'Object Repository/Page_YouTube Music/music_logo' is present
+
+2022-07-20 19:27:10 - [MESSAGE][PASSED] - Object 'Object Repository/Page_YouTube Music/music_logo' is present
+
+2022-07-20 19:27:10 - [TEST_STEP][PASSED] - click(findTestObject("Page_YouTube Music/btn_explore")): Object: 'Object Repository/Page_YouTube Music/btn_explore' is clicked on
+
+2022-07-20 19:27:10 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_YouTube Music/btn_explore' is clicked on
+
+2022-07-20 19:27:10 - [TEST_STEP][PASSED] - waitForElementPresent(findTestObject("Page_YouTube Music/logo_new_release"), 3): Object 'Object Repository/Page_YouTube Music/logo_new_release' is present
+
+2022-07-20 19:27:12 - [MESSAGE][PASSED] - Object 'Object Repository/Page_YouTube Music/logo_new_release' is present
+
+2022-07-20 19:27:12 - [TEST_STEP][PASSED] - verifyElementPresent(findTestObject("Page_YouTube Music/logo_new_release"), 0): Object 'Object Repository/Page_YouTube Music/logo_new_release' is present
+
+2022-07-20 19:27:12 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2022-07-20 19:27:12 - [MESSAGE][PASSED] - Object 'Object Repository/Page_YouTube Music/logo_new_release' is present]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/User can go to login page" time="7.885" classname="Test Cases/User can go to login page" status="PASSED">
+         <system-out><![CDATA[2022-07-20 19:27:12 - [TEST_CASE][PASSED] - Test Cases/User can go to login page: Test Cases/User can go to login page
+
+2022-07-20 19:27:12 - [TEST_STEP][PASSED] - openBrowser("https://music.youtube.com/"): Browser is opened with url: 'https://music.youtube.com/'
+
+2022-07-20 19:27:12 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+2022-07-20 19:27:12 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2022-07-20 19:27:12 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2022-07-20 19:27:17 - [MESSAGE][PASSED] - Browser is opened with url: 'https://music.youtube.com/'
+
+2022-07-20 19:27:17 - [TEST_STEP][PASSED] - waitForElementPresent(findTestObject("Page_YouTube Music/music_logo"), 3): Object 'Object Repository/Page_YouTube Music/music_logo' is present
+
+2022-07-20 19:27:18 - [MESSAGE][PASSED] - Object 'Object Repository/Page_YouTube Music/music_logo' is present
+
+2022-07-20 19:27:18 - [TEST_STEP][PASSED] - click(findTestObject("Page_YouTube Music/btn_sign_in")): Object: 'Object Repository/Page_YouTube Music/btn_sign_in' is clicked on
+
+2022-07-20 19:27:19 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_YouTube Music/btn_sign_in' is clicked on
+
+2022-07-20 19:27:19 - [TEST_STEP][PASSED] - waitForElementVisible(findTestObject("Page_YouTube/span_login"), 0): Object 'Object Repository/Page_YouTube/span_login' is visible
+
+2022-07-20 19:27:19 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2022-07-20 19:27:20 - [MESSAGE][PASSED] - Object 'Object Repository/Page_YouTube/span_login' is visible]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/User can go to Charts page" time="9.834" classname="Test Cases/User can go to Charts page" status="PASSED">
+         <system-out><![CDATA[2022-07-20 19:27:20 - [TEST_CASE][PASSED] - Test Cases/User can go to Charts page: Test Cases/User can go to Charts page
+
+2022-07-20 19:27:20 - [TEST_STEP][PASSED] - openBrowser("https://music.youtube.com/"): Browser is opened with url: 'https://music.youtube.com/'
+
+2022-07-20 19:27:20 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+2022-07-20 19:27:20 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2022-07-20 19:27:20 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2022-07-20 19:27:25 - [MESSAGE][PASSED] - Browser is opened with url: 'https://music.youtube.com/'
+
+2022-07-20 19:27:25 - [TEST_STEP][PASSED] - waitForElementPresent(findTestObject("Page_YouTube Music/music_logo"), 3): Object 'Object Repository/Page_YouTube Music/music_logo' is present
+
+2022-07-20 19:27:25 - [MESSAGE][PASSED] - Object 'Object Repository/Page_YouTube Music/music_logo' is present
+
+2022-07-20 19:27:25 - [TEST_STEP][PASSED] - click(findTestObject("Page_YouTube Music/btn_explore")): Object: 'Object Repository/Page_YouTube Music/btn_explore' is clicked on
+
+2022-07-20 19:27:26 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_YouTube Music/btn_explore' is clicked on
+
+2022-07-20 19:27:26 - [TEST_STEP][PASSED] - waitForElementPresent(findTestObject("Page_YouTube Music/btn_charts"), 3): Object 'Object Repository/Page_YouTube Music/btn_charts' is present
+
+2022-07-20 19:27:27 - [MESSAGE][PASSED] - Object 'Object Repository/Page_YouTube Music/btn_charts' is present
+
+2022-07-20 19:27:27 - [TEST_STEP][PASSED] - click(findTestObject("Page_YouTube Music/btn_charts")): Object: 'Object Repository/Page_YouTube Music/btn_charts' is clicked on
+
+2022-07-20 19:27:28 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_YouTube Music/btn_charts' is clicked on
+
+2022-07-20 19:27:28 - [TEST_STEP][PASSED] - waitForElementPresent(findTestObject("Page_YouTube Music/page_title_charts"), 3): Object 'Object Repository/Page_YouTube Music/page_title_charts' is present
+
+2022-07-20 19:27:29 - [MESSAGE][PASSED] - Object 'Object Repository/Page_YouTube Music/page_title_charts' is present
+
+2022-07-20 19:27:29 - [TEST_STEP][PASSED] - verifyElementPresent(findTestObject("Page_YouTube Music/page_title_charts"), 0): Object 'Object Repository/Page_YouTube Music/page_title_charts' is present
+
+2022-07-20 19:27:29 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2022-07-20 19:27:30 - [MESSAGE][PASSED] - Object 'Object Repository/Page_YouTube Music/page_title_charts' is present]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/User can go to Moods page" time="9.144" classname="Test Cases/User can go to Moods page" status="PASSED">
+         <system-out><![CDATA[2022-07-20 19:27:30 - [TEST_CASE][PASSED] - Test Cases/User can go to Moods page: Test Cases/User can go to Moods page
+
+2022-07-20 19:27:30 - [TEST_STEP][PASSED] - openBrowser("https://music.youtube.com/"): Browser is opened with url: 'https://music.youtube.com/'
+
+2022-07-20 19:27:30 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+2022-07-20 19:27:30 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2022-07-20 19:27:30 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2022-07-20 19:27:34 - [MESSAGE][PASSED] - Browser is opened with url: 'https://music.youtube.com/'
+
+2022-07-20 19:27:34 - [TEST_STEP][PASSED] - waitForElementPresent(findTestObject("Page_YouTube Music/music_logo"), 3): Object 'Object Repository/Page_YouTube Music/music_logo' is present
+
+2022-07-20 19:27:35 - [MESSAGE][PASSED] - Object 'Object Repository/Page_YouTube Music/music_logo' is present
+
+2022-07-20 19:27:35 - [TEST_STEP][PASSED] - click(findTestObject("Page_YouTube Music/btn_explore")): Object: 'Object Repository/Page_YouTube Music/btn_explore' is clicked on
+
+2022-07-20 19:27:35 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_YouTube Music/btn_explore' is clicked on
+
+2022-07-20 19:27:35 - [TEST_STEP][PASSED] - waitForElementPresent(findTestObject("Page_YouTube Music/btn_moods"), 3): Object 'Object Repository/Page_YouTube Music/btn_moods' is present
+
+2022-07-20 19:27:37 - [MESSAGE][PASSED] - Object 'Object Repository/Page_YouTube Music/btn_moods' is present
+
+2022-07-20 19:27:37 - [TEST_STEP][PASSED] - click(findTestObject("Page_YouTube Music/btn_moods")): Object: 'Object Repository/Page_YouTube Music/btn_moods' is clicked on
+
+2022-07-20 19:27:38 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_YouTube Music/btn_moods' is clicked on
+
+2022-07-20 19:27:38 - [TEST_STEP][PASSED] - waitForElementPresent(findTestObject("Page_YouTube Music/page_title_moods"), 3): Object 'Object Repository/Page_YouTube Music/page_title_moods' is present
+
+2022-07-20 19:27:39 - [MESSAGE][PASSED] - Object 'Object Repository/Page_YouTube Music/page_title_moods' is present
+
+2022-07-20 19:27:39 - [TEST_STEP][PASSED] - verifyElementPresent(findTestObject("Page_YouTube Music/page_title_moods"), 0): Object 'Object Repository/Page_YouTube Music/page_title_moods' is present
+
+2022-07-20 19:27:39 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2022-07-20 19:27:39 - [MESSAGE][PASSED] - Object 'Object Repository/Page_YouTube Music/page_title_moods' is present]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2022-07-20 19:26:24 - [TEST_SUITE][PASSED] - New Test Suite: Test Cases/User can go to Moods page]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

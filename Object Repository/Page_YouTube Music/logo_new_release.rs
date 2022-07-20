@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>logo_new_release</name>
+   <tag></tag>
+   <elementGuidId>e8ebabfe-e4ca-4c7e-8501-2609afb020d9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='items']/ytmusic-navigation-button-renderer/button/yt-icon</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>yt-icon.style-scope.ytmusic-navigation-button-renderer</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>yt-icon</value>
+      <webElementGuid>47e1dbc2-9dc7-4cd4-84f2-e23001139c76</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>style-scope ytmusic-navigation-button-renderer</value>
+      <webElementGuid>b2a7341a-c6f5-42a4-a882-f13a8498fcc3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;browse-page&quot;)/div[@class=&quot;background-gradient style-scope ytmusic-browse-response&quot;]/ytmusic-section-list-renderer[@class=&quot;style-scope ytmusic-browse-response&quot;]/div[@id=&quot;contents&quot;]/ytmusic-grid-renderer[@class=&quot;style-scope ytmusic-section-list-renderer&quot;]/div[@id=&quot;items&quot;]/ytmusic-navigation-button-renderer[@class=&quot;style-scope ytmusic-grid-renderer&quot;]/button[@class=&quot;style-scope ytmusic-navigation-button-renderer&quot;]/yt-icon[@class=&quot;style-scope ytmusic-navigation-button-renderer&quot;]</value>
+      <webElementGuid>ec308fd6-77d3-4d8d-8688-69876d00683a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='items']/ytmusic-navigation-button-renderer/button/yt-icon</value>
+      <webElementGuid>6cd7f789-33a9-4ad3-a1f4-a19a5f927337</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sign in'])[1]/following::yt-icon[1]</value>
+      <webElementGuid>1d874325-3fdf-4607-8ce2-c1b4a139be9f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Library'])[1]/following::yt-icon[1]</value>
+      <webElementGuid>a8d14dd6-5fd9-4371-9ce0-b6776f5e7455</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='New releases'])[1]/preceding::yt-icon[1]</value>
+      <webElementGuid>f39eacfc-b90b-425f-b707-18cdece0df5e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Charts'])[1]/preceding::yt-icon[2]</value>
+      <webElementGuid>c7a0e1e7-8507-4889-9b81-481f4d946fc3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button/yt-icon</value>
+      <webElementGuid>ddc4ddcd-89b8-49df-957a-2ad2800c19c4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>User can go to login page</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>db117116-d4fd-4518-8c63-86cbd4c57b42</testCaseGuid>
+</TestCaseEntity>
