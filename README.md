@@ -12,7 +12,9 @@
 
 ![image](https://user-images.githubusercontent.com/39255214/180124482-7386c389-1fe4-4081-9e16-f2d3f266a573.png)
 
-3. After you go to New Test Suite, you can click this button on the picture below, and select Chrome as the browser
+3. After you go to New Test Suite, you can click this button on the picture below, 
+and select Chrome as the browser
+
 ![image](https://user-images.githubusercontent.com/39255214/180124727-5927561d-485f-461f-86f5-42f6164e4117.png)
 
 4. And then the test automation will run, and you will see the result
